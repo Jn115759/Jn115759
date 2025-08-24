@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jn115759
+- 👋 Hi, I’m @Jn115759 / JohnnyN
 - 👀 I’m interested in home assistant
 - 🌱 I’m currently learning how to use and configure it
 
