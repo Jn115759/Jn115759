@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jn115759 / JohnnyN
-- 👀 I’m interested in home assistant
+- I have been a safety engineer within a big chemical company for many years
+- 👀 I’m interested in home assistant and esphome
 - 🌱 I’m currently learning how to use and configure it
 
 
